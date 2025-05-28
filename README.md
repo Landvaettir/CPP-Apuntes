@@ -1,2 +1,2 @@
-# C-Notes
-C++ Notes / Apuntes de C++
+# C-Notes / Apuntes de C++
+
