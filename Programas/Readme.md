@@ -1,4 +1,5 @@
-#include <iostream>: Libreria de entrada y salida estándar.
+# C++ Apuntes
+#include \<iostream\>: Libreria de entrada y salida estándar.
   - std::cout -> Imprimir en pantalla.
   - std::cin -> Recibir datos ingresados por usuario.
 
