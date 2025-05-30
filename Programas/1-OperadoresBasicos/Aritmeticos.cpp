@@ -28,19 +28,19 @@ int main(){
     //Incremento (++)
     std::cout << "a= " << a << std::endl;
     // a++ = Incremento postfijo -> devuelve el valor antes de incrementar
-    std::cout << "Incremento de a: " << a++ << std::endl;
+    std::cout << "Incremento posfijo de a: " << a++ << std::endl;
 
     std::cout << "a= " << a << std::endl;
     //++a = Incremento prefijo -> incrementa antes de devolver el valor
-    std::cout << "Incremento de a: " << ++a << std::endl;
+    std::cout << "Incremento prefijo de a: " << ++a << std::endl;
 
     //Decremento (--)
     std::cout << "a= " << a << std::endl;
     // a-- = Decremento postfijo -> devuelve el valor antes de decrementar
-    std::cout << "Decremento de a: " << a-- << std::endl;
+    std::cout << "Decremento posfijo de a: " << a-- << std::endl;
 
     std::cout << "a= " << a << std::endl;
     //--a = Decremento prefijo -> decrementa antes de devolver el valor
-    std::cout << "Decremento de a: " << --a << std::endl;
+    std::cout << "Decremento prefijo de a: " << --a << std::endl;
     return 0;
 }
