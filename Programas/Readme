@@ -8,6 +8,13 @@
   - Resta = -
   - Multiplicación = *
   - División = /
+  - Módulo = % -> Corresponde al resto de una división.
+  - Incremento -> Aumenta en 1 el valor de la variable.
+    - Prefijo = ++Variable -> Aumenta y luego evalúa.
+    - Postfijo = Variable++ -> Evalúa y luego aumenta.
+  - Decremento -> Disminuye en 1 el valor de la variable.
+    - Prefijo = --Variable -> Disminuye y luego evalúa.
+    - Postfijo = Variable-- -> Evalúa y luego disminuye.
 
 # Tipos de datos:
   - int -> Números enteros.
